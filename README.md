@@ -4,10 +4,9 @@
 
 ## Datos
 
-- 🦄 **Desarrollador/a:** *Nombre*
-- 🐇 **Link a red social:** *https://twitter.com/nombre*
-- 🦾 **Perfil:** *Novato / Bajo / Medio / Avanzado / Experto*
-- 💬 **Un comentario breve o frase ingeniosa**: *-*
+- 🦄 **Desarrollador/a:** Dario Lacuesta
+- 🐇 **Link a red social:** https://www.linkedin.com/in/rdlacuesta/
+- 🦾 **Perfil:**  Bajo
 
 ## Observaciones
 
